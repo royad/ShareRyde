@@ -10,6 +10,12 @@ import android.widget.TextView;
 
 public class LoginActivity extends AppCompatActivity {
 
+//    private EditText etUsername = (EditText) findViewById(R.id.etUsername);
+//    private EditText etPassword = (EditText) findViewById(R.id.etPassword);
+//    private Button bLogin = (Button) findViewById(R.id.bLogin);
+//    private TextView registerLink = (TextView) findViewById(R.id.tvRegisterHere);
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
